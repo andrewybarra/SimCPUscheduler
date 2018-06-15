@@ -1,8 +1,7 @@
 /*////////////////////////////////////////////////////
  /
  /           Andrew Ybarra
- /           1081010
- /           Programming Assignment 3
+ /
  /           cpuServer.c
  /
  /           The purpose of this program is to take in
