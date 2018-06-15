@@ -1,8 +1,7 @@
 /*////////////////////////////////////////////////////
  /
  /           Andrew Ybarra
- /           1081010
- /           Programming Assignment 3
+ /
  /           cpuClient.c
  /
  /           The purpose of this program is to take in
